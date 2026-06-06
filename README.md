@@ -10,12 +10,6 @@ I've got a bunch of pinned projects below, but my current favorite is **[Resolvi
 
 If you want to reach out, my [LinkedIn](https://www.linkedin.com/in/hriday-bardhan/) and [Email](mailto:hridaybardhan18@gmail.com) are always open!
 
-### 🛠️ Tools & Tech
-* **Languages:** Python, JavaScript, SQL, Solidity
-* **Backend:** FastAPI, Node.js, PostgreSQL, Redis, Docker, IPFS
-* **AI & ML:** scikit-learn, TensorFlow, OpenCV, Hugging Face
-* **Web3:** Ethereum, Hardhat
-
 ### 🔭 Projects I'm Proud Of
 * **[BlockCert](https://github.com/Survine/BlockCert)** — On-chain academic credential verification.
 * **[Resolvify](https://github.com/Survine/Resolvify)** — Multi-tenant SaaS backend with async task queues and JWT auth.
