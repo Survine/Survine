@@ -1,11 +1,8 @@
 ## Hey there! 👋
 
 I'm **Hriday**, a developer based in Tripura, India.
-
 I'm a B.Tech AI & Data Science student obsessed with building intelligent systems, scalable backends, and exploring Web3.
-
 My main tech stack is **Python and JavaScript frameworks** like **FastAPI, Node.js, React** along with **PostgreSQL, Docker**.
-
 I've got a bunch of pinned projects below, but my current favorite is **[Resolvify](https://github.com/Survine/Resolvify)**.
 
 If you want to reach out, my [LinkedIn](https://www.linkedin.com/in/hriday-bardhan/) and [Email](mailto:hridaybardhan18@gmail.com) are always open!
